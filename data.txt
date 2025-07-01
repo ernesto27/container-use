@@ -1,0 +1,3 @@
+/home/ernesto/code/container-use/cmd/cu/cu
+
+claude mcp add container-use -- /home/ernesto/code/container-use/cmd/cu/cu stdio
